@@ -1,4 +1,4 @@
-# Marketing Strategy Development through Workation Data Analysis
+# Developing Workation Marketing Strategies through Data Analytics
 **Topic: Travel Data Analysis for Regional Economic Revitalization and Workation Area Selection & Specialization Strategies**
 
 **1. Project Introduction**
