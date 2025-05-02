@@ -109,8 +109,3 @@
 - Clusters show that nature/experience-based, long-stay, family-oriented workations have untapped potential.
 - Long-stay workation marketing and support can drive local economic revitalization, especially in regions with improving long-stay and spending correlations.
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/43582961/482709f2-e938-41c9-8d58-d1802c745a7c/paste.txt
-
----
-Perplexity로부터의 답변: pplx.ai/share
